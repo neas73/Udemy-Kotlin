@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Udemy-Kotlin</string>
-    <string name="texto">Hello Kotlin!!!</string>
+    <string name="btnImagen0">Ir a Imagen 0</string>
+    <string name="btnLista">Ir a Lista</string>
+    <string name="btnImagen2">Ir a Imagen 2</string>
+    <string name="btnImagen3">Ir a Imagen 3</string>
+    <string name="btnImagen4">Ir a Imagen 4</string>
+    <string name="btnImagen5">Ir a Imagen 5</string>
+    <string name="btnImagen6">Ir a Imagen 6</string>
+    <string name="btnImagen7">Ir a Imagen 7</string>
+    <string name="btnImagen8">Ir a Imagen 8</string>
+    <string name="btnImagen9">Ir a Imagen 9</string>
 </resources>
